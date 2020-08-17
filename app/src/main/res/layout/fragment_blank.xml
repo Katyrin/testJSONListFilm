@@ -44,7 +44,7 @@
         <ImageView
             android:id="@+id/image2"
             android:layout_width="wrap_content"
-            android:layout_height="160dp">
+            android:layout_height="200dp">
 
         </ImageView>
 
@@ -59,7 +59,7 @@
                 android:layout_height="match_parent"
                 android:gravity="center"
                 android:text="Film title"
-                android:textSize="13sp">
+                android:textSize="20sp">
 
             </TextView>
 
@@ -68,7 +68,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:text="Year"
-                android:textSize="13sp">
+                android:textSize="18sp">
 
             </TextView>
 
@@ -77,7 +77,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:text="Rating"
-                android:textSize="13sp">
+                android:textSize="22sp">
 
             </TextView>
         </LinearLayout>
@@ -90,7 +90,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:text="Description"
-        android:textSize="13sp"
+        android:textSize="14sp"
         android:padding="8dp"/>
 
 </LinearLayout>

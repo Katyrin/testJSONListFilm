@@ -46,7 +46,8 @@
             android:maxLines="2"
             android:text="Film title"
             android:textColor="@android:color/black"
-            android:textSize="13sp" />
+            android:textSize="14sp"
+            android:textStyle="bold" />
 
 
     </RelativeLayout>
